@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liuguangaiai.github.io/minimax-compared-ai-liuguang/sitemap.xml
