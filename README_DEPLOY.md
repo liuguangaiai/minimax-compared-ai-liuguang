@@ -14,4 +14,4 @@ MiniMax 对比 ChatGPT / MiniMax 相比 Claude / 流光AI 性能 / AI聚合对�
 
 模板：`site_v1.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-minimax-compared-ai&utm_medium=referral&utm_campaign=minimax-compared-ai`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
